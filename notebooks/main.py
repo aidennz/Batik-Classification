@@ -32,7 +32,7 @@ def set_background_local(image_path):
         }}
 
         .block-container {{
-            background-color: rgba(255, 248, 220, 0.9);
+            background-color: rgba(0, 0, 1, 1);
             padding: 2rem;
             border-radius: 12px;
         }}
