@@ -81,7 +81,7 @@ st.title("🧵 Batik Motif Classification")
 st.markdown(
     """
     Aplikasi ini menggunakan **Deep Learning (ResNet50)**  
-    untuk mengklasifikasikan **20 jenis motif batik Indonesia**.
+    untuk mengklasifikasikan **berbagai jenis motif batik Indonesia**.
     """
 )
 
